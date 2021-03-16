@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CMJ-94 (Charlote MJ)
 - 👀 I’m interested in front-end web development, gaming (PS4, sorry Xbox), reading and all things vegan 
-- 🌱 I’m currently self-learning Codeacademy Pro's full-stack engineer course
+- 🌱 In my spare time, I’m currently self-learning Codeacademy Pro's full-stack engineer course. Be gentle, I'm only a beginner! 
 - 📫 How to reach me: please contact me for details! 
 
 <!---
